@@ -1,0 +1,7 @@
+{
+  "name": "ricky-mortis-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
